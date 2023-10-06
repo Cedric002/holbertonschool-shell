@@ -1,2 +1,2 @@
-chmod u+x file
+#!/bin/bash
 ls -l
