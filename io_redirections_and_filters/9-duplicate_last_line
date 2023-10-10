@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 
+tail -1 file | tee -a file
