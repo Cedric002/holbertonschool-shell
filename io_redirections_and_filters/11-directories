@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -mindepth 3
+find . -type d -mindepth 1
